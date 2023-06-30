@@ -1,0 +1,41 @@
+[{
+  "Id":1,
+  "SellRent":1,
+  "Name":"Birla House",
+  "Type":"House",
+  "Price":450000,
+  "Image":"prop-1"
+},
+{
+  "Id":2,
+  "SellRent":2,
+  "Name":"Erose Villa",
+  "Type":"House",
+  "Price":450000,
+  "Image":"prop-2"
+},
+{
+  "Id":3,
+  "SellRent":2,
+  "Name":"Antilia",
+  "Type":"House",
+  "Price":450000,
+  "Image":"prop-3"
+},
+{
+  "Id":4,
+  "SellRent":1,
+  "Name":"Excellent Villa",
+  "Type":"House",
+  "Price":450000,
+  "Image":"prop-4"
+},
+{
+  "Id":5,
+  "SellRent":2,
+  "Name":"Villa",
+  "Type":"House",
+  "Price":450000,
+  "Image":"prop-5"
+}
+]
